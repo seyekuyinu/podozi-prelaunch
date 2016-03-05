@@ -29,7 +29,6 @@ end
 gem 'delayed_job_active_record'
 
 gem 'unicorn'
-gem 'sqlite3'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
@@ -44,3 +43,13 @@ gem 'sqlite3'
 
 # To use debugger
 # gem 'debugger'
+
+group :development do
+	gem 'sqlite3'
+end
+
+group :production do
+	gem 'pg'
+	gem 'rails_12factor'
+end
+
