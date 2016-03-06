@@ -184,6 +184,7 @@ DEPENDENCIES
   pry
   rails (= 3.2.11)
   rails_12factor
+  sass (= 3.4.21)
   sass-rails (~> 3.2.3)
   sqlite3
   uglifier (>= 1.0.3)
