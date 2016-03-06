@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-ruby '2.2.4'
-
+#ruby '2.2.4'
+ruby '2.1.5'
 gem 'rails', '3.2.11'
 
 # Bundle edge Rails instead:
@@ -42,7 +42,7 @@ gem 'unicorn'
 
 # To use debugger
 # gem 'debugger'
-
+gem 'pg'
 group :development do
 	gem 'sqlite3'
 end
