@@ -2,9 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c5f9384-d7e0-44d9-8279-00850221ae9e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Production__prelaunchr_master.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__prelaunchr_master.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/prelaunchr-master.iml" afterPath="$PROJECT_DIR$/.idea/prelaunchr-master.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin-27ad9868fc549b5b7f8a79e29b63e1b1.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin-6371b5761974e91b514af2402ad01f51.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/admin_notes_icon-8e217933591c9da65796cac884693255.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/admin_notes_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-01fd2fbf95fcd2d97a6da2d7bb02d4da.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-035f5a9138f27f9d50296f5c296f1367.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application-2692eadc8d12dfb455063b6b593bd635.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/application-6ed4b815070547ef708578c4d8b0b1ef.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/application.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/blade-explain-3d6b298e53f62516a0aa7bd59fa4bc95.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/blade-explain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/blade-explain@2x-b35be1fbb4f02c3d47fdc5e27cee93bf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/blade-explain@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip-1e793fabf1172e4cf39a4d2cabae7d36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip-fe6aa770f6465a30d843c1c3815c980a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x copy-dc2864a47521cde4470557a54369767c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x copy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x-b201d462ea60180668e429b66c2327b9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x-bb410f8babd4a3e18f09b65eee328cfa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/cream-tooltip@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-header-bg-066027d6bdfb64bd6dcc12dd7ce9b6a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-header-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-input-icon-b4dd46b47f1361ce12c252d1ad78bcb7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-input-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-next-link-icon-1807bd114286909b4f6b4c2107ca8476.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-next-link-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-nipple-6b3a9e9b9a9d9eb7b3648855abcb08ba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-nipple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-prev-link-icon-3e31e11743a08fb317d48b7e0838356a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/datepicker/datepicker-prev-link-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/facebook-64f19d4c948d5ab75b55ee231ef8bb65.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/facebook.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/favicon-f6c1cf8ca212ac5d3e5d25294dfc5852.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/fb-99a3cc5004a9016aa2cc4853e9e4fed3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/fb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/fb@2x-a902a34292dd62699a9177bdd36755e0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/fb@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/harrys-is-coming-1c658694f0aa6fca54cbd920c6a0f5e3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/harrys-is-coming.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/hero-fd26ac84b6a2bf3dbab27a67451d2475.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/hero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/hero@2x-dd04ca996997b51f71b3d7a5aef3d6c8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/hero@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/key-bfafaf27c18eb73bff26258099e8bacc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/key@2x-c550f4e868ebca5d84b27ef9e8a1da6e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home/key@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/loading-5132096d71419a66caa453af6ef6cde2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/logo-377862308c9562289151621cb6800294.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/logo-c14d8e222fc82a0ddcb34dbdd26280c3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/logo@2x-7f24598d5694e04e3e11798a76230ad5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/logo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/mammoth-f8f81b22c9a5a4b318f41b6049185c7b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/mammoth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/mammoth@2x-827890cfd0bf7b8e75dd14f8fd75231f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/mammoth@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/nested_menu_arrow-bf762d23e220f364b4ce3a0a83300f4f.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/nested_menu_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/nested_menu_arrow_dark-f1e3fcd67fc3076d125581db38d0ca59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/nested_menu_arrow_dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/orderable-a47cda5a948c19d31660c7afb9148d95.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/orderable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/podozi-eb97f837e375a1b47f65ffcd21ead534.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/podozi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/print-629b804c46f8e53152a27d41c7465a9e.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/print.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/progress-bg-4615584e89e1de5738c83df07086dcad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/progress-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/progress-bg@2x-55676256fd820bf876463a164dd60f4a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/progress-bg@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/progress-done-0e19c5d99f95c4368648dc161888501f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/progress-done.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/progress-done@2x-06be6543004cd728959943adee61b22a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/progress-done@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/refer-792a1eb8e663106f7a689434e03de738.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/refer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/truman-421b230ce375ef988f861b3ea9e870b1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/truman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/truman@2x-abb4e5a26a2c2330621223848a0ef1ae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/truman@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/twit-ffe79a7b2278af9272354fb9474bfc82.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/twit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/twit@2x-e1ac7d9ea4af9e2d99855dcae0aa69be.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/twit@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/twitter-15a4b5723c1d84cadf3b12d942cf8194.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/email/twitter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/winston-dd43b160fa4e37da0a267ad3e7f187ea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/winston.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/winston@2x-a213104879fd32847c4af34b53a131cb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/refer/winston@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin-27ad9868fc549b5b7f8a79e29b63e1b1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin-6371b5761974e91b514af2402ad01f51.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-01fd2fbf95fcd2d97a6da2d7bb02d4da.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-035f5a9138f27f9d50296f5c296f1367.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application-2692eadc8d12dfb455063b6b593bd635.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/application-6ed4b815070547ef708578c4d8b0b1ef.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/pages/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/index_list_icons/block_icon-ca6c3fa263361289babd77a807e65077.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/index_list_icons/block_icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/index_list_icons/blog_icon-6516c13c79f69231d8d984c5f8bd2337.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/index_list_icons/blog_icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/index_list_icons/grid_icon-dcf3d022ac7c845ceb4a417933bf9380.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/index_list_icons/grid_icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.min-3e0058db67a6ae8cb4c91596e845aee6.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/manifest.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/print-629b804c46f8e53152a27d41c7465a9e.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/index_list_icons/table_icon-80138ba9c034a69f78b6bd50a3da749a.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/active_admin/index_list_icons/table_icon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="prelaunchr-master.iws" />
@@ -20,7 +146,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/prelaunchr-master@Production__prelaunchr_master.coverage" NAME="Production: prelaunchr-master Coverage Results" MODIFIED="1457327092071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="prelaunchr-master" />
+    <SUITE FILE_PATH="coverage/prelaunchr-master@Production__prelaunchr_master.coverage" NAME="Production: prelaunchr-master Coverage Results" MODIFIED="1457327187654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="prelaunchr-master" />
     <SUITE FILE_PATH="coverage/prelaunchr-master@Development__prelaunchr_master.coverage" NAME="Development: prelaunchr-master Coverage Results" MODIFIED="1457326765624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="prelaunchr-master" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -35,21 +161,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="915">
-              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+            <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="585">
+              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63965887" vertical-offset="0" max-vertical-offset="1125">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.63901347" vertical-offset="0" max-vertical-offset="446">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -68,6 +194,7 @@
         <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
         <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
+        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
       </list>
     </option>
   </component>
@@ -110,6 +237,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,14 +307,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prelaunchr-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prelaunchr-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prelaunchr-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prelaunchr-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prelaunchr-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prelaunchr-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../merck-diabetes-master" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
@@ -263,28 +444,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="55" width="1428" height="805" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882273" sideWeight="0.4992785" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32793522" sideWeight="0.4992785" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1904762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32746956" sideWeight="0.4992785" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1991342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32746956" sideWeight="0.5007215" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32793522" sideWeight="0.5007215" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882273" sideWeight="0.49951315" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32746956" sideWeight="0.4992785" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -318,11 +499,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="915">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="626" max-vertical-offset="1095">
           <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -338,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -361,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -377,7 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45628998" vertical-offset="626" max-vertical-offset="1095">
           <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -391,8 +591,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63965887" vertical-offset="0" max-vertical-offset="1125">
+        <state vertical-scroll-proportion="-0.19361702" vertical-offset="391" max-vertical-offset="1125">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="585">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63901347" vertical-offset="0" max-vertical-offset="446">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding />
         </state>
       </provider>

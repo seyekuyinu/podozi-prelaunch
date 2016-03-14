@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="Rails prelaunchr-master: development" uuid="2dc2c853-fc31-4600-aa87-7b5d9cc81461">
-      <first-sync>true</first-sync>
-    </data-source>
-    <data-source name="Rails prelaunchr-master: test" uuid="c5676324-2234-4437-bef3-aa8c51a28075">
-      <first-sync>true</first-sync>
-    </data-source>
-    <data-source name="Rails prelaunchr-master: production" uuid="1215ac4a-a6e2-4efd-bb4c-0dbd254016a3">
-      <first-sync>true</first-sync>
-    </data-source>
+    <data-source name="Rails prelaunchr-master: development" uuid="2dc2c853-fc31-4600-aa87-7b5d9cc81461" />
+    <data-source name="Rails prelaunchr-master: test" uuid="c5676324-2234-4437-bef3-aa8c51a28075" />
+    <data-source name="Rails prelaunchr-master: production" uuid="1215ac4a-a6e2-4efd-bb4c-0dbd254016a3" />
   </component>
 </project>
